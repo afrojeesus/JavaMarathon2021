@@ -14,7 +14,7 @@ public class Task2 {
 
             System.out.println("Введите делитель: ");
             double divider = input.nextDouble();
-            
+
             if (divider == 0) {
                 break;
             }
